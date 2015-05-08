@@ -3,7 +3,7 @@
 ## Hack Name
 [PBS Tenant Satisfaction](http://open.gsa.gov/Digital-Innovation-Hackathon/)
 
-[Satisfaction Looker mvp-0.1.0] (http://localhost:4000)
+[Satisfaction Looker mvp-0.1.0] (http://localhost:4000) - This is our v0.1.0 mvp and it is localhost so it will not run until you locally build the project.
 
 ## Primary Challenge
 Are there relationships between tenant satisfaction and the cost of managing the tenant's building?  From this insight the goal is to help the government make better resourcing decisions that maximize value on each dollar spent and minimize waste.
