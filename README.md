@@ -25,7 +25,7 @@ Identifying other energy cost and consumption outliers.
 - John Cloutier
 
 ## Technologies
-- [Jekyll[(http://jekyllrb.com/) for quick static and live website
+- [Jekyll](http://jekyllrb.com/) for quick static and live website
 - GitHub
 - Bootstrap integrated with Jekyll
 - [NVD3](http://nvd3.org/) and [D3](http://d3js.org/) visualization libraries
