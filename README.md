@@ -32,7 +32,7 @@ Identifying other energy cost and consumption outliers.
 - Python for reading dataset and output file for visualization
 
 ## Installation
-- git clone [this repo]
-- install Jekyll ('gem install jekyll') (has Ruby/RubyGem/Node dependencies)
-- start app (from your git directory type 'jekyll serve')
-- view app in browser ('http://localhost:4000')
+- clone this repo
+- install Jekyll (`gem install jekyll`) - Ruby/RubyGem/Node dependencies
+- start app (from your git directory type `jekyll serve`)
+- view app in browser (`http://localhost:4000`)
