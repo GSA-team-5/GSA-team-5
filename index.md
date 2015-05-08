@@ -55,5 +55,17 @@ tagline: Understanding Customer Satisfaction and relationships to Gov Cost on th
 <img src="/assets/spendingplot.png">
 			</div>
 		</div>
-	</div>	
+		<div class='col-md-6'>
+			<h2>Top 5</h2>
+<img style='width: 30px' src='/assets/happy.png' />Boston<br/>
+<img style='width: 30px' src='/assets/happy.png' />Houston<br/>
+<img style='width: 30px' src='/assets/happy.png' />Denver<br/>
+		</div>
+		<div class='col-md-6'>
+			<h2>Bottom 5</h2>
+<img style='width: 30px' src='/assets/sad.png' />Washington, DC<br/>
+<img style='width: 30px' src='/assets/sad.png' />Los Angeles<br/>
+<img style='width: 30px' src='/assets/sad.png' />New York<br/>
+		</div>
+	</div>
 </div>
