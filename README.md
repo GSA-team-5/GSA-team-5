@@ -1,7 +1,7 @@
 # GSA-team-5 - Satisfaction Looker
 
 ## Hack Name
-PBS Tenant Satisfaction
+[PBS Tenant Satisfaction](http://open.gsa.gov/Digital-Innovation-Hackathon/)
 
 [Satisfaction Looker mvp-0.1.0] (http://localhost:4000)
 
@@ -37,3 +37,12 @@ Identifying other energy cost and consumption outliers.
 - install Jekyll (`gem install jekyll`) - Ruby/RubyGem/Node dependencies
 - start app (from your git directory type `jekyll serve`)
 - view app in browser (`http://localhost:4000`)
+
+## To-Do
+- Need Granular data.  The high level measures are ok but will ultimately be misleading.
+- More cost data tied to buildings.  Too many were missing
+- Simply more data.  How easy is it to submit data and to make the data available for computer consumption.  Today the data is excel.
+- Process to take take data and to convert to json for consumption and other transformations.
+- Identify more 2-3 dimensional metrics to show data by building and region.
+- Show more comparison overlays by building and region and other similar attributes.
+- Personalization of the site for the Building and Regional Managers.  Seeing what matters to you eases the consumption of the information for you to act on.
