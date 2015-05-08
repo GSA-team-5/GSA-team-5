@@ -19,11 +19,12 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var svg = d3.select("#chart").append("svg")
-    .attr("width", width + margin.left + margin.right)
+    .attr("width", "100%")
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+    
 d3.tsv("data.tsv", function(error, data) {
   data.forEach(function(d) {
     d.sepalLength = +d.sepalLength;

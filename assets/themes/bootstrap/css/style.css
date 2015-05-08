@@ -83,3 +83,6 @@
   stroke: #000;
 }
 
+#LeftSide {
+	border: solid 1px black;
+}
