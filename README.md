@@ -11,7 +11,7 @@ Are there relationships between tenant satisfaction and the cost of managing the
 ## Secondary Challenge
 Identifying other energy cost and consumption outliers.
 
-# Team Vision
+## Team Vision
 - Identify an initial algorithm that attempts to correlate various cost metrics to the various tenant satisfaction ratings.
 - Identify the target users of the application to have a more personalized design approach.
 - The team believes there is not a single view that answers the primary challenge succinctly (at least not known) so we want to build an intuitive user experience that allows the user to richly view the data and through various snapshots make better heuristical conclusion.
@@ -23,3 +23,10 @@ Identifying other energy cost and consumption outliers.
 - Jolie Dobre
 - Andrew Heekin
 - John Cloutier
+
+## Technologies
+- [Jekyll[(http://jekyllrb.com/) for quick static and live website
+- GitHub
+- Bootstrap integrated with Jekyll
+- [NVD3](http://nvd3.org/) and [D3](http://d3js.org/) visualization libraries
+- Python for reading dataset and output file for visualization
