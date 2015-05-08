@@ -19,7 +19,7 @@ Identifying other energy cost and consumption outliers.
 ## Team
 - Johnny Mohseni
 - Brain DeRocher
-- Stacey Surla
+- Stacy Surla
 - Jolie Dobre
 - Andrew Heekin
 - John Cloutier
