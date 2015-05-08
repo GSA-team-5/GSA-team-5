@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: SatisfactionLooker
+tagline: Understanding Customer Satisfaction and relationships to Gov Cost on them.
 ---
 {% include JB/setup %}
 
