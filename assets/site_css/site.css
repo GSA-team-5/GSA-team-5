@@ -16,3 +16,9 @@
 	border-radius: 3px;
 	padding: 4px;
 }
+
+
+#BuildingSelect {
+	height: 150px;
+	overflow: scroll;
+}
