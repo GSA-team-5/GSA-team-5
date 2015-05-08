@@ -43,16 +43,16 @@ tagline: Understanding Customer Satisfaction and relationships to Gov Cost on th
 		<div id='chart'></div>
 		<div class='row'>
 			<div class='col-md-3'>
-<img src="http://placehold.it/150x150">
+<img src="/assets/scatterplotselect.png">
 			</div>
 			<div class='col-md-3'>
-<img src="http://placehold.it/150x150">
+<img src="/assets/boxplot.png">
 			</div>
 			<div class='col-md-3'>
-<img src="http://placehold.it/150x150">
+<img src="/assets/ratingcurvecompare.png">
 			</div>
 			<div class='col-md-3'>
-<img src="http://placehold.it/150x150">
+<img src="/assets/spendingplot.png">
 			</div>
 		</div>
 	</div>	

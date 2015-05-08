@@ -19,7 +19,7 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 var svg = d3.select("#chart").append("svg")
-    .attr("width", "100%")
+    .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
@@ -43,7 +43,7 @@ d3.tsv("data.tsv", function(error, data) {
       .attr("x", width)
       .attr("y", -6)
       .style("text-anchor", "end")
-      .text("Sepal Width (cm)");
+      .text("Dollars / SqFt");
 
   svg.append("g")
       .attr("class", "y axis")
@@ -54,7 +54,7 @@ d3.tsv("data.tsv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Sepal Length (cm)")
+      .text("Satisfaction")
 
   svg.selectAll(".dot")
       .data(data)
