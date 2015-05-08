@@ -29,7 +29,7 @@ Identifying other energy cost and consumption outliers.
 - GitHub
 - Bootstrap integrated with Jekyll
 - [NVD3](http://nvd3.org/) and [D3](http://d3js.org/) visualization libraries
-- Python for reading dataset and output file for visualization
+- [Python Pandas](http://pandas.pydata.org/) and [Tableau](http://www.tableau.com/) for data processing and preparation for visualization
 
 ## Installation
 - clone this repo
