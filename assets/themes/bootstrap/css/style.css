@@ -63,26 +63,3 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.dot {
-  stroke: #000;
-}
-
-#LeftSide {
-	border: solid 1px black;
-}
