@@ -8,22 +8,11 @@ tagline: Understanding Customer Satisfaction and relationships to Gov Cost on th
 <div class='row'>
 	<div class='col-md-3'>
 		<div id='LeftSide'>
-			<h3>Data Sets</h3>
-			<h4>Independent</h4>
+			<h3>Group by</h3>
 			<ul>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
-			</ul>
-			<h4>Dependent</h4>
-			<ul>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
-				<li>item</li>
+				<li><input type='radio' checked />Region</li>
+				<li><input type='radio' />State</li>
+				<li><input type='radio' />Agency</li>
 			</ul>
 			<h2>My Buildings</h2>
 			<div id='BuildingSelect'>
