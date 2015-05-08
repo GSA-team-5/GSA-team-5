@@ -30,3 +30,9 @@ Identifying other energy cost and consumption outliers.
 - Bootstrap integrated with Jekyll
 - [NVD3](http://nvd3.org/) and [D3](http://d3js.org/) visualization libraries
 - Python for reading dataset and output file for visualization
+
+## Installation
+- git clone [this repo]
+- install Jekyll ('gem install jekyll') (has Ruby/RubyGem/Node dependencies)
+- start app (from your git directory type 'jekyll serve')
+- view app in browser ('http://localhost:4000')
