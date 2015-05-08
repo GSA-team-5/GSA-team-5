@@ -28,7 +28,7 @@ Identifying other energy cost and consumption outliers.
 - [Jekyll](http://jekyllrb.com/) for quick static and live website
 - GitHub
 - Bootstrap integrated with Jekyll
-- [xmind](http://www.xmind.net/)
+- [xmind](http://www.xmind.net/) for creating a mind map to understand data better.
 - [NVD3](http://nvd3.org/) and [D3](http://d3js.org/) visualization libraries
 - [Python Pandas](http://pandas.pydata.org/) and [Tableau](http://www.tableau.com/) for data processing and preparation for visualization
 
