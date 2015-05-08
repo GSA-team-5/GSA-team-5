@@ -60,12 +60,16 @@ tagline: Understanding Customer Satisfaction and relationships to Gov Cost on th
 <img style='width: 30px' src='/assets/happy.png' />Boston<br/>
 <img style='width: 30px' src='/assets/happy.png' />Houston<br/>
 <img style='width: 30px' src='/assets/happy.png' />Denver<br/>
+<img style='width: 30px' src='/assets/happy.png' />Trenton<br/>
+<img style='width: 30px' src='/assets/happy.png' />Philadelphia<br/>
 		</div>
 		<div class='col-md-6'>
 			<h2>Bottom 5</h2>
 <img style='width: 30px' src='/assets/sad.png' />Washington, DC<br/>
 <img style='width: 30px' src='/assets/sad.png' />Los Angeles<br/>
 <img style='width: 30px' src='/assets/sad.png' />New York<br/>
+<img style='width: 30px' src='/assets/sad.png' />Dallas<br/>
+<img style='width: 30px' src='/assets/sad.png' />San Francisco<br/>
 		</div>
 	</div>
 </div>
