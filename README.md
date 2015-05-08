@@ -1,4 +1,4 @@
-# GSA-team-5 - Satisfactio Looker
+# GSA-team-5 - Satisfaction Looker
 
 ## Hack Name
 PBS Tenant Satisfaction
@@ -22,4 +22,4 @@ Identifying other energy cost and consumption outliers.
 - Andrew Heekin
 - John Cloutier
 
-## [View Satisfaction Looker] (http://localhost:4000)
+###[View Satisfaction Looker] (http://localhost:4000)
