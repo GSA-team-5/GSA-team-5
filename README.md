@@ -1,8 +1,13 @@
 # GSA-team-5 - Satisfactio Looker
 
-# Hack Name: PBS Tenant Satisfaction
-# Primary Challenge: Are there relationships between tenant satisfaction and the cost of managing the tenant's building?  From this insight the goal is to help the government make better resourcing decisions that maximize value on each dollar spent and minimize waste.
-## Secondary Challenge: Identifying other energy cost and consumption outliers.
+## Hack Name
+PBS Tenant Satisfaction
+
+## Primary Challenge
+Are there relationships between tenant satisfaction and the cost of managing the tenant's building?  From this insight the goal is to help the government make better resourcing decisions that maximize value on each dollar spent and minimize waste.
+
+## Secondary Challenge
+Identifying other energy cost and consumption outliers.
 
 # Team Vision
 - Identify an initial algorithm that attempts to correlate various cost metrics to the various tenant satisfaction ratings.
@@ -16,3 +21,5 @@
 - Jolie Dobre
 - Andrew Heekin
 - John Cloutier
+
+## [View Satisfaction Looker] (http://localhost:4000)
