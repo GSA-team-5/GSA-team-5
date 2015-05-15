@@ -9,22 +9,22 @@ tagline: Understanding Customer Satisfaction and relationships to Gov Cost on th
 	<div class='col-md-3'>
 		<div id='LeftSide'>
 			<h3>Group by</h3>
-			<ul>
-				<li><input type='radio' checked />Region</li>
-				<li><input type='radio' />State</li>
-				<li><input type='radio' />Agency</li>
+			<ul class='g5-disabled'>
+				<li><input disabled='disabled' type='radio' checked />Region</li>
+				<li><input disabled='disabled' type='radio' />State</li>
+				<li><input disabled='disabled' type='radio' />Agency</li>
 			</ul>
 			<h2>My Buildings</h2>
-			<div id='BuildingSelect'>
-<input type='checkbox' checked />Anchorage<br/>
-<input type='checkbox' checked />Boulder<br/>
-<input type='checkbox' checked />Boston<br/>
-<input type='checkbox' checked />Charlottesville<br/>
-<input type='checkbox' checked />Denton<br/>
-<input type='checkbox' checked />Elkridge<br/>
-<input type='checkbox' checked />Gainseville<br/>
-<input type='checkbox' checked />Houston<br/>
-<input type='checkbox' checked />Kingston<br/>
+			<div id='BuildingSelect' class='g5-disabled'>
+<input type='checkbox' checked disabled='disabled' />Anchorage<br/>
+<input type='checkbox' checked disabled='disabled' />Boulder<br/>
+<input type='checkbox' checked disabled='disabled' />Boston<br/>
+<input type='checkbox' checked disabled='disabled' />Charlottesville<br/>
+<input type='checkbox' checked disabled='disabled' />Denton<br/>
+<input type='checkbox' checked disabled='disabled' />Elkridge<br/>
+<input type='checkbox' checked disabled='disabled' />Gainseville<br/>
+<input type='checkbox' checked disabled='disabled' />Houston<br/>
+<input type='checkbox' checked disabled='disabled' />Kingston<br/>
 			</div>
 		</div>
 	</div>
