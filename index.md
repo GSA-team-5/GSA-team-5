@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cost Per Square Foot vs Satisfaction
+tagline: Relating Investments to Employee Satisfaction for GSA PBS
 ---
 {% include JB/setup %}
 

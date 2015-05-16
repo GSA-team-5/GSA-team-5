@@ -12,7 +12,6 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : SatisfactionLooker
-tagline: Understanding Customer Satisfaction and relationships to Gov Cost on them.
 author :
   name : Name Lastname
   email : blah@email.test
