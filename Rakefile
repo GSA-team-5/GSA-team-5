@@ -2,6 +2,8 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+require 'tmpdir'
+
 
 SOURCE = "."
 CONFIG = {
@@ -308,8 +310,13 @@ end
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
 
+desc "Buid the website"
+task :build do
+  system "jekyll build"
+end # task :preview
+
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publish => [:build] do
   Dir.mktmpdir do |tmp|
   system "mv _site/* #{tmp}"
   system "git checkout -B gh-pages"
