@@ -19,34 +19,34 @@ title: Cost Per Square Foot vs Satisfaction
 		<div id='chart'></div>
 		<div class='row'>
 			<div class='col-md-3'>
-<img src="/assets/scatterplotselect.png">
+<img src="{{BASE_PATH}}/assets/scatterplotselect.png">
 			</div>
 			<div class='col-md-3'>
-<img src="/assets/boxplot.png">
+<img src="{{BASE_PATH}}/assets/boxplot.png">
 			</div>
 			<div class='col-md-3'>
-<img src="/assets/ratingcurvecompare.png">
+<img src="{{BASE_PATH}}/assets/ratingcurvecompare.png">
 			</div>
 			<div class='col-md-3'>
-<img src="/assets/spendingplot.png">
+<img src="{{BASE_PATH}}/assets/spendingplot.png">
 			</div>
 		</div>
 		<div class='row'>
 			<div class='col-md-6'>
 				<h2>Top 5</h2>
-<img style='width: 30px' src='/assets/happy.png' />Boston<br/>
-<img style='width: 30px' src='/assets/happy.png' />Houston<br/>
-<img style='width: 30px' src='/assets/happy.png' />Denver<br/>
-<img style='width: 30px' src='/assets/happy.png' />Trenton<br/>
-<img style='width: 30px' src='/assets/happy.png' />Philadelphia<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/happy.png' />Boston<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/happy.png' />Houston<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/happy.png' />Denver<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/happy.png' />Trenton<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/happy.png' />Philadelphia<br/>
 			</div>
 			<div class='col-md-6'>
 				<h2>Bottom 5</h2>
-<img style='width: 30px' src='/assets/sad.png' />Washington, DC<br/>
-<img style='width: 30px' src='/assets/sad.png' />Los Angeles<br/>
-<img style='width: 30px' src='/assets/sad.png' />New York<br/>
-<img style='width: 30px' src='/assets/sad.png' />Dallas<br/>
-<img style='width: 30px' src='/assets/sad.png' />San Francisco<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/sad.png' />Washington, DC<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/sad.png' />Los Angeles<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/sad.png' />New York<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/sad.png' />Dallas<br/>
+<img style='width: 30px' src='{{BASE_PATH}}/assets/sad.png' />San Francisco<br/>
 			</div>
 		</div>
 		<div class='row'>
