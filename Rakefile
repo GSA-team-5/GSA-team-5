@@ -313,10 +313,15 @@ Dir['_rake/*.rake'].each { |r| load r }
 desc "Buid the website"
 task :build do
   system "jekyll build"
-end # task :preview
+end
+
+desc "Buid the published website"
+task :buildsafe do
+  system "jekyll build --safe"
+end
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:build] do
+task :publish => [:buildsafe] do
   Dir.mktmpdir do |tmp|
   system "mv _site/* #{tmp}"
   system "git checkout -B gh-pages"
