@@ -1,7 +1,6 @@
 ---
 layout: page
-title: SatisfactionLooker
-tagline: Understanding Customer Satisfaction and relationships to Gov Cost on them.
+title: Cost Per Square Foot vs Satisfaction
 ---
 {% include JB/setup %}
 
