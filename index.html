@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
 
-    <title>Tags</title>
+    <title>Cost Per Square Foot vs Satisfaction</title>
     
     <meta name="author" content="Name Lastname">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -80,7 +80,7 @@
     
       
       	
-      	<li class="active"><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html" class="active">Tags</a></li>
+      	<li><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html">Tags</a></li>
       	
       
     
@@ -95,116 +95,73 @@
     <div class="container">
       
 <div class="page-header">
-  <h1>Tags </h1>
+  <h1>Cost Per Square Foot vs Satisfaction  <small>Relating Investments to Employee Satisfaction for GSA PBS</small></h1>
 </div>
 
 <div class="row">
   <div class="col-xs-12">
       
-
-<ul class="tag_box inline">
-    
-  
-
-
-  
-     
-    	<li><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html#intro-ref">intro <span>1</span></a></li>
-     
-    	<li><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html#beginner-ref">beginner <span>1</span></a></li>
-     
-    	<li><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html#jekyll-ref">jekyll <span>1</span></a></li>
-     
-    	<li><a href="http://gsa-team-5.github.io/GSA-team-5/tags.html#tutorial-ref">tutorial <span>1</span></a></li>
-    
-  
-
-
-
-</ul>
-
-
- 
-  <h2 id="intro-ref">intro</h2>
-  <ul>
-      
-    
-
-
-  
-    
-      
-      	
-      	<li><a href="http://gsa-team-5.github.io/GSA-team-5/core-samples/lessons/2011/12/29/jekyll-introduction">Jekyll Introduction</a></li>
-      	
-      
-    
-  
-
-
-
-  </ul>
- 
-  <h2 id="beginner-ref">beginner</h2>
-  <ul>
-      
-    
-
-
-  
-    
-      
-      	
-      	<li><a href="http://gsa-team-5.github.io/GSA-team-5/core-samples/lessons/2011/12/29/jekyll-introduction">Jekyll Introduction</a></li>
-      	
-      
-    
-  
-
-
-
-  </ul>
- 
-  <h2 id="jekyll-ref">jekyll</h2>
-  <ul>
-      
-    
-
-
-  
-    
-      
-      	
-      	<li><a href="http://gsa-team-5.github.io/GSA-team-5/core-samples/lessons/2011/12/29/jekyll-introduction">Jekyll Introduction</a></li>
-      	
-      
-    
-  
-
-
-
-  </ul>
- 
-  <h2 id="tutorial-ref">tutorial</h2>
-  <ul>
-      
-    
-
-
-  
-    
-      
-      	
-      	<li><a href="http://gsa-team-5.github.io/GSA-team-5/core-samples/lessons/2011/12/29/jekyll-introduction">Jekyll Introduction</a></li>
-      	
-      
-    
-  
-
-
-
-  </ul>
-
+<div class="row">
+	<div class="col-md-12">
+		<div>
+			Group by: 
+<button disabled="disabled" class="btn btn-default">Region</button>
+<button disabled="disabled" class="btn btn-default">State</button>
+<button disabled="disabled" class="btn btn-default">Agency</button>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12">
+		<div id="chart"></div>
+		<div class="row">
+			<div class="col-md-3">
+<img src="http://gsa-team-5.github.io/GSA-team-5/assets/scatterplotselect.png" />
+			</div>
+			<div class="col-md-3">
+<img src="http://gsa-team-5.github.io/GSA-team-5/assets/boxplot.png" />
+			</div>
+			<div class="col-md-3">
+<img src="http://gsa-team-5.github.io/GSA-team-5/assets/ratingcurvecompare.png" />
+			</div>
+			<div class="col-md-3">
+<img src="http://gsa-team-5.github.io/GSA-team-5/assets/spendingplot.png" />
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6">
+				<h2>Top 5</h2>
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/happy.png" />Boston<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/happy.png" />Houston<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/happy.png" />Denver<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/happy.png" />Trenton<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/happy.png" />Philadelphia<br />
+			</div>
+			<div class="col-md-6">
+				<h2>Bottom 5</h2>
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/sad.png" />Washington, DC<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/sad.png" />Los Angeles<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/sad.png" />New York<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/sad.png" />Dallas<br />
+<img style="width: 30px" src="http://gsa-team-5.github.io/GSA-team-5/assets/sad.png" />San Francisco<br />
+			</div>
+		</div>
+		<div class="row">
+			<h2>My Buildings</h2>
+			<div id="BuildingSelect" class="g5-disabled">
+<input type="checkbox" checked="" disabled="disabled" />Anchorage<br />
+<input type="checkbox" checked="" disabled="disabled" />Boulder<br />
+<input type="checkbox" checked="" disabled="disabled" />Boston<br />
+<input type="checkbox" checked="" disabled="disabled" />Charlottesville<br />
+<input type="checkbox" checked="" disabled="disabled" />Denton<br />
+<input type="checkbox" checked="" disabled="disabled" />Elkridge<br />
+<input type="checkbox" checked="" disabled="disabled" />Gainseville<br />
+<input type="checkbox" checked="" disabled="disabled" />Houston<br />
+<input type="checkbox" checked="" disabled="disabled" />Kingston<br />
+			</div>
+		</div>
+	</div>
+</div>
 
   </div>
 </div>
